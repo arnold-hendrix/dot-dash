@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotDashExercise", "DotDashExercise\DotDashExercise.csproj", "{81D96D6D-2EF4-482A-88DF-68EF5B3BAB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D96D6D-2EF4-482A-88DF-68EF5B3BAB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D96D6D-2EF4-482A-88DF-68EF5B3BAB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D96D6D-2EF4-482A-88DF-68EF5B3BAB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D96D6D-2EF4-482A-88DF-68EF5B3BAB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F43EEC4-9275-4F1B-B76F-CFF448A491F5}
+	EndGlobalSection
+EndGlobal
